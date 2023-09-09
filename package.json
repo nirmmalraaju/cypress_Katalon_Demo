@@ -1,0 +1,22 @@
+{
+  "name": "katalondemo",
+  "version": "2.2.0",
+  "description": "Demo project",
+  "main": "index.js",
+  "scripts": {
+    "cy-open": "cypress open --e2e --browser chrome",
+    "cy-run": "cypress run --spec cypress/e2e/features/*"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Nirmmal",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "^12.0.2",
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "multiple-cucumber-html-reporter": "^3.4.0"
+  }
+}
