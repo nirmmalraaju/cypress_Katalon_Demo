@@ -51,3 +51,18 @@ Thumbs.db
 
 # Cucumber Report
 reports
+cypress/results/mochawesome.html
+cypress/results/mochawesome.json
+cypress/results/assets/app.css
+cypress/results/assets/app.js
+cypress/results/assets/app.js.LICENSE.txt
+cypress/results/assets/MaterialIcons-Regular.woff
+cypress/results/assets/MaterialIcons-Regular.woff2
+cypress/results/assets/roboto-light-webfont.woff
+cypress/results/assets/roboto-light-webfont.woff2
+cypress/results/assets/roboto-medium-webfont.woff
+cypress/results/assets/roboto-medium-webfont.woff2
+cypress/results/assets/roboto-regular-webfont.woff
+cypress/results/assets/roboto-regular-webfont.woff2
+jsonlogs/messages.json
+cucumber-report.html
